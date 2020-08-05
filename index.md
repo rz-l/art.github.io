@@ -1,3 +1,6 @@
+theme: A LITTLE TRY
+title:HELLO WORLD AGAIN
+description:actually nothing here
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/rz-l/art.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
